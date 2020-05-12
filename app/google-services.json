@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97156076289",
+    "firebase_url": "https://fir-intro-d4c0b.firebaseio.com",
+    "project_id": "fir-intro-d4c0b",
+    "storage_bucket": "fir-intro-d4c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97156076289:android:c62a57fa2d31d824a30100",
+        "android_client_info": {
+          "package_name": "com.jermainebjonesgmail.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97156076289-l5g17t4the4d1ua3lu4g11e4cpcsbd7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jermainebjonesgmail.firebaseintro",
+            "certificate_hash": "3b087ddc950ba8034153807f509aa3adef2f6d71"
+          }
+        },
+        {
+          "client_id": "97156076289-lb3q97cej5miffgpkfbmrlc6prko6nu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vtWc95GL0kgATR2gbucPrp4u0mMLHfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97156076289-lb3q97cej5miffgpkfbmrlc6prko6nu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
